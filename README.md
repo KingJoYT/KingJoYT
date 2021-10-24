@@ -12,7 +12,7 @@ Hi! I'm KingJoYT aka Jo and I'm a developer from Germany. I love programming and
 - ✖ Developer for XCORE
 
 <h3> My projects </h3>
-<p>🤫 Currently Secret</p>
+<p>🤫 Secret</p>
 
 <h3> Get in touch </h3>
 <p>
