@@ -26,5 +26,5 @@
 </p>
 
 <h3> Stats </h3>
-![KingJoYT Github Stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![KingJoYT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=KingJoYT&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingJoYT&layout=compact&hide_border=true">
