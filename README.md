@@ -1,8 +1,8 @@
-### Hey! I'm KingJoYT!
+# Hey! I'm KingJoYT!
 - 💻 Web Developer
 - ⤵ Frontend
 - ⤴ Backend
 
 ---
-##### My projects
+### My projects
 - 🤫 Secret
