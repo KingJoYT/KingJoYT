@@ -1,7 +1,7 @@
 # 👋 Hey! I'm KingJoYT
-- 💻 Web Developer
-- ⤵ Frontend
-- ⤴ Backend
+<p>
+Hi! I'm KingJoYT aka Jo and I'm a developer from Germany. I love programming and I work on different projects in the front and backend. What about you?
+</p>
 
 ---
 ### About me
