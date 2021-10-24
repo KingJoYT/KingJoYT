@@ -5,16 +5,16 @@
 
 ---
 ### About me
-- I'm a sloth 🦥
-- Just chilling all day long ✌
-- Developer from Germany 📌
-- Developer for Melion 🍉
-- Developer for XCORE ✖
+- 🦥 I'm a sloth
+- ✌ Just chilling all day long
+- 📌 Developer from Germany
+- 🍉 Developer for Melion
+- ✖ Developer for XCORE
 
 <h3> My projects </h3>
-<p>🤫 Secret</p>
+<p>🤫 Currently Secret</p>
 
-<h3> Social Media </h3>
+<h3> Get in touch </h3>
 <p>
     <a href="https://kingjo.ml/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Homepage Icon" style="width: 50px; height: 50px;">
