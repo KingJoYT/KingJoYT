@@ -6,7 +6,7 @@
 ---
 ### About me
 - 🦥 I'm a sloth
-- ✌ Just chilling all day long
+- 💤 Just chilling all day long
 - 📌 Developer from Germany
 - 🍉 Developer for Melion
 - ✖ Developer for XCORE
