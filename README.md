@@ -24,3 +24,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" alt="Twitch Logo" style="width: 20px; height: 20px; margin-right: 10px;">
     </a>
 </p>
+
+<h3> Stats </h3>
+![KingJoYT Github Stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![KingJoYT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
