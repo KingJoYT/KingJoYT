@@ -9,11 +9,11 @@
 - Just chilling all day long ✌
 - Developer from Germany 📌
 
----
+<br>
 ### My projects
 🤫 Secret
 
----
+<br>
 ### Social Media
 <p align="left">
     <a href="https://discord.com/users/436555443641384961" style="margin-right: 10px">
