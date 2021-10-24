@@ -13,7 +13,7 @@
 <p>🤫 Secret</p>
 
 <h3> Social Media </h3>
-<p align="left">
+<p style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://discord.com/users/436555443641384961" style="margin-right: 10px">
         <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord Logo" style="width: 20px; height: 20px; margin-right: 10px;">
     </a>
