@@ -16,16 +16,16 @@
 
 <h3> Social Media </h3>
 <p>
-    <a href="https://kingjo.ml/">
+    <a href="https://kingjo.ml/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Homepage Icon" style="width: 50px; height: 50px;">
     </a>&nbsp;&nbsp;
-    <a href="https://discord.com/users/436555443641384961">
+    <a href="https://discord.com/users/436555443641384961" target="_blank">
         <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord Logo" style="width: 50px; height: 50px;">
     </a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCLNtpHjXuNtIrVjLOM3VgLQ">
+    <a href="https://www.youtube.com/channel/UCLNtpHjXuNtIrVjLOM3VgLQ" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube Logo" style="width: 50px; height: 50px;">
     </a>&nbsp;&nbsp;
-    <a href="https://www.twitch.tv/kingjo_yt">
+    <a href="https://www.twitch.tv/kingjo_yt" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" alt="Twitch Logo" style="width: 50px; height: 50px;">
     </a>&nbsp;&nbsp;
 </p>
