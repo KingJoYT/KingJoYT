@@ -30,4 +30,4 @@ Hi! I'm KingJoYT aka Jo and I'm a developer from Germany. I love programming and
 
 <h3> Stats </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=kingjoyt&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingJoYT&layout=compact&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjoyt&theme=dark">
