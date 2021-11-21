@@ -8,8 +8,6 @@ Hi! I'm KingJoYT aka Jo and I'm a developer from Germany. I love programming and
 - 🦥 I'm a sloth
 - 💤 Just chilling all day long
 - 📌 Developer from Germany
-- 🍉 Developer for Melion
-- ✖ Developer for XCORE
 
 <h3> My projects </h3>
 <p>🤫 Secret</p>
