@@ -29,5 +29,5 @@ Hi! I'm KingJoYT aka Jo and I'm a developer from Germany. I love programming and
 </p>
 
 <h3> Stats </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=kingjoyt&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjoyt&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingjoyt&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjoyt&theme=dark">
