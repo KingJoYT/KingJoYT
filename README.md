@@ -14,9 +14,6 @@ Hi! I'm KingJoYT aka Jo and I'm a developer from Germany. I love programming and
 
 <h3> Get in touch </h3>
 <p>
-    <a href="https://kingjo.ml/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Homepage Icon" style="width: 50px; height: 50px;">
-    </a>&nbsp;&nbsp;
     <a href="https://discord.com/users/436555443641384961" target="_blank">
         <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord Logo" style="width: 50px; height: 50px;">
     </a>&nbsp;&nbsp;
