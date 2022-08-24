@@ -1,20 +1,17 @@
-Hi 👋 My name is Jo
+👋 Hey, I am Jo
 ===================
-
-Developer and Designer
-----------------------
 
 Hey, my name is Jo. I am a german Developer and Designer who is always happy to help small projects grow, or contribute in bigger projects. I also got some of my own projects, but love to work in a team as well.
 
-* 🌍  I'm based in Germany
-* 🚀  I'm currently working on [a Minecraft Server](http://boom-mc.ml)
-* 🧠  I'm learning Typescript
+* 📍  I'm based in Germany
+* 💥  I'm currently working on [a Minecraft Server](http://boom-mc.ml)
+* 🤓  I'm learning Typescript
 * 🤝  I'm open to collaborating on cool projects with great ideas
 
 <a href="https://www.github.com/KingJoYT" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KingJoYT?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
 
-### Skills
+### 😎 Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -40,13 +37,11 @@ src="https://img.shields.io/github/followers/KingJoYT?logo=github&style=for-the-
 </p>
 
 
-### Socials
+### 📱 Social Media
 
 <p align="left"> <a href="https://www.codepen.io/KingJoYT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/KingJoYT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/KingJoYT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19466719/kingjoyt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### 💪 GitHub Stats
 
 <a href="http://www.github.com/KingJoYT"><img src="https://github-readme-stats.vercel.app/api?username=KingJoYT&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="KingJoYT's GitHub stats" /></a>
 
