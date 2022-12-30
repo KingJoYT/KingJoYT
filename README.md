@@ -4,7 +4,6 @@
 Hey, my name is Jo. I am a german Developer and Designer who is always happy to help small projects grow, or contribute in bigger projects. I also got some of my own projects, but love to work in a team as well.
 
 * 📍  Living in Germany
-* 💥  My currently biggest project: [My Minecraft Server](http://boom-mc.ml)
 * 🤓  Learning Typescript
 * 🤝  Always open to collaborating on cool projects with great ideas
 
